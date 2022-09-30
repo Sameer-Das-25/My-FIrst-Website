@@ -1,0 +1,18 @@
+body{background-color: rgb(125, 241, 226);
+    margin-left: 30%;margin-right: 30%; border: solid black 10px; padding: 10px;
+}
+h1{color: rgb(8, 8, 237);}
+input{background-color: rgb(242, 243, 209);}
+button{background-color: rgb(35, 241, 79);}
+
+ div{ 
+    justify-content: center;
+    color: blue;
+        display:grid; 
+                    }
+
+ h1{border:solid rgb(4, 1, 14);border-width: 5px;padding: 10px;background-color:rgb(7, 241, 69);
+         display: flex;
+         justify-content: center;
+
+} 
