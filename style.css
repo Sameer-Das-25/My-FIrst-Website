@@ -5,7 +5,6 @@ body {
 .container {
     background-color: lightblue;
     margin: 5% 10%;
-
     border: 1px solid grey;
     border-radius: 8px;
 }
@@ -13,6 +12,7 @@ body {
     padding: 5px 30px;
     font-size: 50px;
     border: 1px solid grey;
+    border-radius: 8px;
 }
 
 .login-form {
